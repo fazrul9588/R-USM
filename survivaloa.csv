@@ -1,15 +1,13 @@
-marital,sex,age,surgery,race,first,status,survivaltime
+﻿marital,sex,age,surgery,race,first,status,survivaltime
 Separated/divorced/widowed,Female,81,Yes,White,No,Died,42
 Married,Female,31,Yes,White,Yes,Alive,122
 Married,Female,52,Yes,White,Yes,Died,22
-Married,Male,71,Yes,White,Yes,Died,0
 Separated/divorced/widowed,Male,48,Yes,White,No,Died,50
 Married,Female,65,Yes,White,Yes,Died,9
 Married,Male,62,Yes,White,Yes,Died,49
 Married,Male,71,Yes,White,No,Died,2
 Married,Female,48,Yes,White,Yes,Alive,279
 Married,Male,61,Yes,White,No,Alive,14
-Married,Male,33,Yes,White,No,Died,0
 Married,Male,39,Yes,White,Yes,Alive,262
 Married,Male,72,Yes,White,No,Died,11
 Married,Female,44,Yes,White,Yes,Alive,27
@@ -58,8 +56,6 @@ Married,Male,38,Yes,White,Yes,Died,135
 Single,Male,6,Yes,White,Yes,Alive,161
 Single,Female,49,Yes,White,No,Died,1
 Married,Male,72,Yes,White,No,Died,3
-Married,Female,34,Yes,White,Yes,Died,0
-Married,Male,56,Yes,White,Yes,Died,0
 Single,Female,56,Yes,Black,Yes,Died,3
 Married,Male,69,Yes,White,No,Died,13
 Married,Male,44,Yes,White,Yes,Alive,146
@@ -140,7 +136,6 @@ Separated/divorced/widowed,Female,46,Yes,White,Yes,Alive,190
 Married,Female,44,Yes,Others,Yes,Died,207
 Separated/divorced/widowed,Male,41,Yes,White,Yes,Died,22
 Single,Male,42,Yes,White,Yes,Died,48
-Single,Female,57,No,White,Yes,Died,0
 Married,Female,48,Yes,White,Yes,Died,35
 Married,Female,68,Yes,White,Yes,Alive,128
 Separated/divorced/widowed,Female,86,No,White,Yes,Died,2
@@ -148,17 +143,14 @@ Single,Male,29,Yes,Black,Yes,Alive,227
 Married,Female,67,Yes,White,Yes,Died,8
 Married,Male,66,Yes,White,Yes,Died,34
 Single,Female,45,Yes,White,Yes,Died,25
-Married,Male,57,Yes,White,Yes,Died,0
 Separated/divorced/widowed,Male,40,Yes,White,Yes,Died,31
 Single,Female,52,Yes,White,No,Died,95
 Married,Male,45,Yes,White,Yes,Died,46
 Single,Male,36,Yes,White,Yes,Died,118
 Married,Male,41,No,Black,Yes,Died,177
-Married,Male,51,No,Black,Yes,Died,0
 Married,Female,55,No,White,Yes,Died,4
 Married,Male,35,Yes,White,Yes,Died,129
 Single,Female,23,Yes,White,Yes,Died,114
-Married,Female,30,Yes,White,Yes,Died,0
 Single,Female,34,Yes,Black,Yes,Died,41
 Single,Female,62,Yes,White,Yes,Died,93
 Married,Male,51,Yes,White,Yes,Died,160
@@ -191,7 +183,6 @@ Married,Male,50,Yes,White,Yes,Died,136
 Separated/divorced/widowed,Female,84,Yes,White,Yes,Died,1
 Married,Female,55,Yes,White,Yes,Alive,165
 Married,Male,62,Yes,White,Yes,Died,2
-Separated/divorced/widowed,Male,82,No,White,Yes,Died,0
 Married,Female,70,Yes,White,Yes,Died,1
 Married,Female,53,No,White,Yes,Died,76
 Separated/divorced/widowed,Male,83,Yes,White,No,Died,52
@@ -214,7 +205,6 @@ Married,Male,41,No,Others,Yes,Alive,169
 Married,Female,53,Yes,White,Yes,Died,18
 Married,Female,54,Yes,White,Yes,Died,52
 Single,Female,9,Yes,Black,Yes,Died,15
-Single,Female,62,Yes,White,Yes,Died,0
 Married,Male,49,Yes,White,Yes,Died,63
 Married,Male,24,Yes,White,Yes,Died,42
 Single,Male,28,Yes,White,Yes,Alive,95
@@ -229,7 +219,6 @@ Separated/divorced/widowed,Female,74,Yes,White,Yes,Died,38
 Single,Male,22,Yes,White,Yes,Alive,73
 Married,Male,72,Yes,White,Yes,Died,17
 Married,Male,74,Yes,White,Yes,Died,14
-Single,Male,57,No,White,No,Died,0
 Single,Male,30,Yes,White,Yes,Alive,60
 Married,Female,57,Yes,White,Yes,Alive,67
 Married,Male,56,Yes,White,Yes,Died,59
@@ -274,7 +263,6 @@ Single,Male,42,Yes,Others,Yes,Alive,158
 Married,Female,47,Yes,Others,Yes,Died,22
 Married,Female,59,Yes,White,Yes,Died,53
 Married,Female,65,Yes,Others,Yes,Alive,130
-Single,Male,53,No,Others,Yes,Died,0
 Married,Female,55,Yes,White,Yes,Alive,115
 Married,Male,56,Yes,Black,Yes,Died,97
 Single,Male,42,Yes,White,Yes,Alive,105
@@ -285,9 +273,7 @@ Single,Female,42,Yes,Others,Yes,Alive,52
 Married,Female,63,Yes,Others,Yes,Alive,46
 Married,Female,60,Yes,Others,Yes,Alive,44
 Married,Male,28,Yes,White,Yes,Alive,9
-Married,Male,67,No,White,Yes,Died,0
 Married,Male,44,Yes,Black,Yes,Died,98
-Married,Male,86,No,White,Yes,Died,0
 Married,Female,47,Yes,White,Yes,Died,238
 Married,Female,66,Yes,White,No,Died,31
 Separated/divorced/widowed,Female,77,Yes,White,No,Died,51
@@ -317,7 +303,6 @@ Separated/divorced/widowed,Male,76,Yes,White,Yes,Died,1
 Single,Female,47,Yes,White,Yes,Alive,186
 Married,Male,48,Yes,White,Yes,Alive,187
 Single,Male,36,Yes,White,Yes,Alive,190
-Married,Female,50,No,White,Yes,Died,0
 Married,Female,56,Yes,White,Yes,Died,26
 Married,Male,47,Yes,White,Yes,Alive,169
 Single,Male,31,Yes,White,Yes,Died,51
@@ -340,7 +325,6 @@ Single,Male,21,No,White,Yes,Died,12
 Married,Male,53,Yes,White,Yes,Died,1
 Separated/divorced/widowed,Female,53,Yes,White,Yes,Alive,128
 Married,Male,25,No,White,Yes,Alive,120
-Married,Female,54,Yes,White,Yes,Died,0
 Married,Male,72,Yes,White,Yes,Died,22
 Married,Male,54,Yes,White,Yes,Alive,111
 Separated/divorced/widowed,Male,61,Yes,White,Yes,Alive,110
@@ -361,7 +345,6 @@ Single,Female,30,Yes,White,Yes,Alive,10
 Single,Male,27,Yes,White,Yes,Alive,8
 Married,Male,59,Yes,White,Yes,Alive,3
 Married,Female,53,Yes,White,Yes,Alive,9
-Separated/divorced/widowed,Female,52,No,White,Yes,Alive,0
 Married,Female,59,Yes,White,Yes,Alive,3
 Married,Male,35,Yes,White,Yes,Alive,5
 Married,Male,49,Yes,White,Yes,Died,78
@@ -397,7 +380,6 @@ Married,Male,69,No,White,Yes,Died,2
 Married,Male,43,Yes,White,Yes,Alive,108
 Separated/divorced/widowed,Female,33,Yes,White,Yes,Died,26
 Married,Male,62,No,White,Yes,Died,3
-Single,Female,68,Yes,White,Yes,Died,0
 Single,Male,71,Yes,White,Yes,Died,6
 Separated/divorced/widowed,Female,46,No,White,Yes,Died,88
 Married,Female,72,Yes,White,Yes,Died,7
@@ -407,7 +389,6 @@ Married,Male,40,Yes,White,Yes,Alive,98
 Married,Female,52,Yes,White,Yes,Alive,8
 Married,Male,38,Yes,White,Yes,Alive,91
 Single,Male,46,Yes,White,Yes,Alive,24
-Single,Male,32,Yes,White,Yes,Died,0
 Married,Male,35,Yes,White,Yes,Alive,93
 Separated/divorced/widowed,Male,38,Yes,White,Yes,Alive,18
 Single,Female,41,Yes,White,Yes,Died,30
@@ -439,7 +420,6 @@ Married,Male,40,Yes,White,Yes,Died,70
 Married,Female,43,Yes,White,Yes,Died,13
 Married,Male,59,Yes,White,Yes,Died,99
 Married,Female,32,No,White,Yes,Died,78
-Married,Male,86,No,White,Yes,Died,0
 Separated/divorced/widowed,Male,54,Yes,White,Yes,Alive,107
 Single,Male,55,No,White,Yes,Died,140
 Single,Male,29,Yes,White,Yes,Died,82
@@ -448,7 +428,6 @@ Married,Female,52,No,White,Yes,Died,7
 Separated/divorced/widowed,Male,55,Yes,White,Yes,Died,145
 Married,Male,46,Yes,White,Yes,Died,8
 Single,Male,32,Yes,White,Yes,Alive,214
-Separated/divorced/widowed,Male,78,Yes,White,No,Died,0
 Married,Male,47,Yes,Others,Yes,Died,102
 Married,Male,65,Yes,White,Yes,Died,7
 Married,Female,41,Yes,White,Yes,Alive,233
@@ -481,7 +460,6 @@ Single,Male,54,Yes,Others,Yes,Died,7
 Single,Male,37,Yes,White,Yes,Died,60
 Married,Female,34,Yes,White,Yes,Died,35
 Married,Female,47,Yes,White,Yes,Alive,176
-Married,Male,34,Yes,Others,Yes,Died,0
 Married,Male,34,Yes,White,Yes,Alive,157
 Separated/divorced/widowed,Female,69,Yes,White,Yes,Died,4
 Married,Female,50,Yes,Others,Yes,Died,56
@@ -525,7 +503,6 @@ Single,Male,26,Yes,Others,Yes,Died,62
 Single,Female,47,Yes,White,Yes,Died,20
 Married,Female,65,Yes,White,No,Alive,1
 Single,Male,16,Yes,White,Yes,Alive,86
-Single,Female,61,Yes,White,Yes,Died,0
 Married,Female,41,Yes,Others,Yes,Died,56
 Single,Female,18,Yes,Others,Yes,Alive,81
 Married,Male,56,No,Others,Yes,Alive,79
@@ -559,7 +536,6 @@ Married,Female,45,Yes,Others,Yes,Alive,1
 Married,Male,67,No,White,Yes,Alive,7
 Single,Female,46,Yes,White,Yes,Alive,3
 Married,Male,56,Yes,White,Yes,Alive,5
-Single,Male,56,Yes,White,Yes,Alive,0
 Married,Male,45,Yes,White,Yes,Died,253
 Married,Male,64,Yes,White,Yes,Died,90
 Separated/divorced/widowed,Female,49,Yes,White,No,Died,9
@@ -635,7 +611,6 @@ Married,Male,57,Yes,White,Yes,Died,42
 Single,Male,32,Yes,White,Yes,Alive,62
 Separated/divorced/widowed,Female,49,Yes,White,Yes,Died,59
 Married,Male,38,Yes,White,Yes,Alive,55
-Married,Male,28,Yes,White,Yes,Died,0
 Married,Female,49,Yes,White,Yes,Alive,61
 Single,Male,16,Yes,White,Yes,Died,1
 Married,Male,63,Yes,White,No,Alive,32
@@ -643,14 +618,12 @@ Married,Male,48,Yes,White,Yes,Alive,39
 Married,Male,43,Yes,White,Yes,Alive,20
 Married,Female,55,Yes,White,Yes,Alive,23
 Married,Male,48,Yes,White,Yes,Alive,21
-Married,Male,66,Yes,White,Yes,Died,0
 Married,Male,63,Yes,White,Yes,Alive,14
 Married,Female,46,Yes,White,Yes,Alive,22
 Married,Male,47,Yes,White,No,Died,6
 Married,Male,29,Yes,White,Yes,Alive,13
 Married,Male,35,No,White,Yes,Alive,10
 Married,Male,77,Yes,White,Yes,Alive,10
-Married,Male,66,Yes,White,Yes,Alive,0
 Married,Male,68,No,White,No,Died,5
 Married,Male,37,Yes,White,Yes,Died,33
 Married,Male,51,Yes,White,Yes,Died,43
@@ -685,7 +658,6 @@ Single,Female,25,Yes,Others,Yes,Died,32
 Married,Female,44,Yes,Others,Yes,Alive,93
 Single,Male,38,Yes,White,Yes,Died,98
 Single,Male,85,No,White,Yes,Died,2
-Married,Female,55,Yes,White,Yes,Died,0
 Married,Male,49,Yes,White,Yes,Died,18
 Married,Male,48,Yes,White,Yes,Died,90
 Married,Female,54,Yes,White,No,Died,42
@@ -702,7 +674,6 @@ Married,Male,50,Yes,White,Yes,Died,62
 Married,Male,70,No,White,Yes,Died,11
 Married,Male,71,Yes,White,Yes,Died,2
 Married,Male,75,No,White,Yes,Died,1
-Married,Female,48,No,Black,Yes,Died,0
 Single,Male,49,Yes,White,Yes,Died,23
 Married,Male,71,Yes,White,Yes,Died,49
 Married,Female,50,Yes,White,Yes,Died,37
@@ -782,9 +753,6 @@ Single,Male,51,Yes,White,Yes,Alive,6
 Married,Female,72,Yes,White,Yes,Alive,10
 Married,Female,48,Yes,White,Yes,Alive,3
 Married,Male,63,Yes,White,Yes,Alive,2
-Married,Male,61,Yes,White,Yes,Alive,0
-Married,Male,65,Yes,White,Yes,Alive,0
-Married,Female,37,Yes,White,Yes,Alive,0
 Married,Male,44,No,White,Yes,Died,63
 Married,Male,64,No,White,Yes,Died,19
 Single,Female,4,Yes,White,Yes,Died,9
@@ -801,10 +769,8 @@ Married,Female,56,Yes,White,Yes,Alive,214
 Married,Male,37,Yes,White,Yes,Alive,202
 Single,Male,6,Yes,Others,Yes,Died,11
 Married,Male,68,Yes,White,Yes,Died,8
-Married,Female,59,Yes,Black,Yes,Died,0
 Single,Male,31,No,Black,Yes,Died,41
 Married,Female,37,Yes,White,Yes,Alive,189
-Married,Male,55,Yes,White,Yes,Died,0
 Single,Female,52,Yes,White,Yes,Alive,172
 Married,Female,55,Yes,White,Yes,Alive,163
 Married,Male,26,Yes,White,Yes,Alive,147
@@ -824,7 +790,6 @@ Married,Female,69,No,White,Yes,Died,4
 Married,Male,51,Yes,White,Yes,Alive,66
 Married,Female,35,Yes,White,Yes,Alive,54
 Separated/divorced/widowed,Male,58,Yes,White,Yes,Died,10
-Separated/divorced/widowed,Male,68,Yes,White,Yes,Died,0
 Married,Male,31,Yes,White,Yes,Alive,8
 Married,Female,36,Yes,White,Yes,Alive,34
 Single,Female,33,Yes,White,Yes,Alive,29
@@ -855,12 +820,9 @@ Single,Male,51,Yes,White,Yes,Died,70
 Married,Male,31,Yes,White,Yes,Died,50
 Married,Female,33,Yes,White,Yes,Died,194
 Single,Male,45,Yes,White,Yes,Alive,198
-Married,Male,45,Yes,White,Yes,Died,0
 Single,Male,23,Yes,White,Yes,Died,16
-Married,Male,51,Yes,White,Yes,Died,0
 Married,Female,74,Yes,White,Yes,Died,5
 Married,Male,35,No,White,Yes,Alive,223
-Married,Male,72,No,White,Yes,Died,0
 Single,Female,31,Yes,White,Yes,Died,58
 Married,Male,48,Yes,White,Yes,Died,6
 Married,Female,39,Yes,Black,Yes,Died,41
@@ -883,7 +845,6 @@ Separated/divorced/widowed,Female,75,Yes,White,Yes,Died,10
 Separated/divorced/widowed,Female,72,Yes,White,Yes,Died,115
 Single,Male,24,No,Others,Yes,Died,12
 Married,Female,30,Yes,Others,Yes,Died,209
-Separated/divorced/widowed,Female,52,Yes,White,No,Died,0
 Single,Male,17,Yes,White,Yes,Alive,148
 Married,Male,35,Yes,White,Yes,Alive,254
 Single,Male,31,Yes,White,Yes,Died,68
@@ -908,7 +869,6 @@ Separated/divorced/widowed,Female,71,Yes,Others,Yes,Died,1
 Married,Male,65,Yes,White,Yes,Died,15
 Single,Female,41,Yes,White,No,Died,103
 Married,Female,36,No,White,Yes,Died,84
-Married,Male,55,Yes,White,No,Alive,0
 Separated/divorced/widowed,Male,45,Yes,White,Yes,Alive,165
 Separated/divorced/widowed,Male,49,Yes,White,Yes,Died,30
 Single,Female,38,Yes,White,Yes,Alive,161
@@ -921,7 +881,6 @@ Married,Male,39,Yes,White,Yes,Died,50
 Single,Female,44,Yes,Others,Yes,Died,50
 Single,Male,39,Yes,White,No,Died,6
 Married,Male,53,Yes,White,Yes,Alive,154
-Married,Male,36,Yes,White,Yes,Died,0
 Married,Male,50,Yes,Others,Yes,Died,14
 Single,Female,44,Yes,White,No,Died,2
 Married,Female,57,Yes,White,Yes,Died,75
@@ -986,14 +945,11 @@ Single,Male,57,Yes,White,Yes,Died,6
 Married,Male,57,Yes,White,Yes,Alive,83
 Married,Female,50,Yes,White,Yes,Alive,80
 Married,Female,62,Yes,White,Yes,Alive,42
-Single,Female,62,Yes,White,Yes,Alive,0
 Married,Male,54,Yes,White,Yes,Alive,72
 Single,Male,36,Yes,White,Yes,Alive,72
 Married,Female,78,Yes,White,Yes,Alive,48
-Separated/divorced/widowed,Male,37,Yes,White,Yes,Alive,0
 Married,Male,53,Yes,Others,Yes,Alive,69
 Married,Male,41,Yes,Others,Yes,Alive,69
-Single,Female,76,Yes,White,Yes,Died,0
 Single,Female,52,Yes,White,No,Died,6
 Married,Male,43,Yes,Others,No,Died,26
 Married,Male,50,Yes,Others,Yes,Alive,67
@@ -1021,7 +977,6 @@ Single,Female,43,Yes,White,Yes,Alive,43
 Married,Male,74,Yes,White,Yes,Alive,43
 Married,Male,73,Yes,Others,No,Died,3
 Married,Male,84,Yes,White,No,Died,9
-Separated/divorced/widowed,Male,92,No,White,Yes,Died,0
 Single,Female,32,Yes,Black,Yes,Alive,41
 Single,Male,37,Yes,White,Yes,Died,17
 Single,Female,25,Yes,White,Yes,Died,16
@@ -1057,7 +1012,6 @@ Separated/divorced/widowed,Male,51,Yes,Others,Yes,Alive,4
 Married,Male,56,Yes,White,No,Alive,7
 Married,Male,58,Yes,White,Yes,Alive,5
 Single,Male,40,Yes,White,Yes,Alive,4
-Married,Male,47,Yes,White,Yes,Alive,0
 Single,Female,32,Yes,Others,Yes,Alive,1
 Single,Male,36,Yes,White,Yes,Died,39
 Separated/divorced/widowed,Female,47,Yes,Black,No,Died,102
@@ -1075,7 +1029,6 @@ Married,Male,73,No,White,No,Died,1
 Separated/divorced/widowed,Male,64,Yes,White,Yes,Died,4
 Married,Female,43,Yes,White,Yes,Alive,200
 Married,Male,39,Yes,White,Yes,Died,156
-Married,Male,46,Yes,White,Yes,Died,0
 Separated/divorced/widowed,Male,52,Yes,Others,No,Alive,30
 Married,Female,46,Yes,White,Yes,Alive,196
 Married,Male,73,No,White,Yes,Died,7
@@ -1126,7 +1079,6 @@ Married,Female,29,Yes,White,Yes,Alive,18
 Married,Female,53,Yes,White,Yes,Alive,18
 Married,Male,41,Yes,White,Yes,Alive,12
 Married,Male,43,Yes,White,Yes,Alive,3
-Married,Female,58,Yes,White,Yes,Alive,0
 Married,Male,55,Yes,White,Yes,Alive,93
 Single,Male,24,Yes,White,Yes,Alive,91
 Separated/divorced/widowed,Female,83,Yes,White,Yes,Died,65
@@ -1212,11 +1164,9 @@ Single,Male,66,Yes,Black,Yes,Alive,11
 Married,Female,51,Yes,White,Yes,Alive,5
 Married,Male,63,No,White,Yes,Alive,16
 Separated/divorced/widowed,Male,46,No,White,Yes,Alive,36
-Married,Male,51,Yes,White,Yes,Died,0
 Single,Female,45,Yes,White,Yes,Alive,1
 Married,Female,36,Yes,White,Yes,Alive,1
 Married,Female,61,No,White,Yes,Alive,25
-Married,Female,72,Yes,White,Yes,Died,0
 Married,Female,72,Yes,White,No,Died,2
 Separated/divorced/widowed,Female,75,Yes,White,No,Died,4
 Married,Male,57,Yes,White,No,Died,53
@@ -1241,7 +1191,6 @@ Separated/divorced/widowed,Female,53,Yes,White,Yes,Alive,179
 Married,Female,33,Yes,White,Yes,Alive,175
 Single,Female,24,Yes,Others,Yes,Alive,176
 Single,Male,44,Yes,White,Yes,Died,21
-Separated/divorced/widowed,Female,68,Yes,Black,Yes,Died,0
 Married,Male,29,No,White,Yes,Died,28
 Married,Male,55,Yes,White,Yes,Died,96
 Separated/divorced/widowed,Female,74,Yes,White,Yes,Died,40
@@ -1266,7 +1215,6 @@ Single,Male,44,Yes,White,Yes,Alive,142
 Single,Female,81,Yes,White,Yes,Died,23
 Married,Female,46,Yes,White,Yes,Died,47
 Married,Female,47,Yes,White,Yes,Died,107
-Married,Male,73,Yes,White,Yes,Died,0
 Married,Male,37,Yes,White,Yes,Alive,152
 Single,Male,33,Yes,White,Yes,Alive,154
 Married,Female,49,Yes,Others,Yes,Died,33
@@ -1289,10 +1237,8 @@ Married,Male,44,Yes,White,Yes,Alive,125
 Separated/divorced/widowed,Male,47,Yes,Others,Yes,Died,18
 Married,Male,40,Yes,White,Yes,Alive,128
 Single,Male,5,No,White,Yes,Died,54
-Married,Female,54,Yes,White,Yes,Died,0
 Married,Female,44,Yes,White,Yes,Alive,123
 Married,Female,55,Yes,White,Yes,Alive,119
-Single,Female,38,Yes,White,Yes,Alive,0
 Single,Male,24,Yes,Black,Yes,Died,8
 Single,Male,27,Yes,White,Yes,Died,63
 Married,Male,33,Yes,White,Yes,Alive,120
@@ -1306,7 +1252,6 @@ Separated/divorced/widowed,Male,65,Yes,White,No,Died,9
 Separated/divorced/widowed,Male,54,Yes,White,Yes,Died,8
 Married,Male,62,Yes,White,Yes,Died,28
 Married,Female,55,Yes,White,Yes,Died,30
-Married,Male,69,Yes,White,Yes,Died,0
 Single,Male,53,Yes,White,Yes,Alive,112
 Married,Male,58,Yes,White,Yes,Died,5
 Married,Male,60,Yes,White,Yes,Alive,109
@@ -1323,7 +1268,6 @@ Married,Male,45,Yes,White,Yes,Alive,95
 Single,Male,40,Yes,White,Yes,Alive,102
 Married,Male,57,No,Black,Yes,Died,22
 Married,Male,40,Yes,White,Yes,Died,76
-Single,Male,22,Yes,White,Yes,Died,0
 Married,Female,50,Yes,White,Yes,Died,50
 Single,Female,37,Yes,Others,No,Died,6
 Married,Female,42,Yes,White,Yes,Alive,91
@@ -1366,7 +1310,6 @@ Married,Male,40,Yes,White,Yes,Alive,61
 Separated/divorced/widowed,Male,47,Yes,White,Yes,Alive,74
 Separated/divorced/widowed,Female,83,Yes,White,Yes,Alive,74
 Single,Female,36,Yes,White,Yes,Alive,3
-Married,Female,45,Yes,White,Yes,Died,0
 Married,Male,32,Yes,White,Yes,Alive,70
 Married,Male,32,Yes,White,Yes,Alive,65
 Married,Female,48,Yes,White,Yes,Died,63
@@ -1458,9 +1401,7 @@ Single,Male,52,Yes,White,Yes,Died,24
 Married,Male,47,Yes,White,Yes,Alive,28
 Married,Female,41,Yes,White,Yes,Died,19
 Separated/divorced/widowed,Female,43,Yes,White,No,Alive,22
-Married,Female,45,Yes,White,Yes,Died,0
 Married,Male,55,Yes,White,Yes,Alive,16
-Married,Male,81,Yes,White,No,Died,0
 Married,Female,59,Yes,White,Yes,Alive,24
 Married,Male,59,Yes,White,Yes,Alive,21
 Married,Male,53,Yes,White,Yes,Alive,24
@@ -1493,7 +1434,6 @@ Single,Male,36,Yes,White,Yes,Alive,10
 Married,Female,64,Yes,Black,Yes,Died,1
 Married,Female,48,Yes,Black,Yes,Alive,10
 Married,Male,42,Yes,White,Yes,Alive,10
-Married,Female,27,Yes,White,Yes,Died,0
 Married,Male,64,Yes,White,Yes,Alive,9
 Single,Male,25,Yes,White,Yes,Alive,12
 Married,Female,82,Yes,Others,Yes,Alive,8
@@ -1506,10 +1446,8 @@ Married,Female,60,No,White,Yes,Alive,4
 Married,Female,53,Yes,White,Yes,Alive,3
 Married,Female,32,Yes,White,Yes,Alive,4
 Married,Male,63,Yes,White,Yes,Alive,4
-Single,Female,49,Yes,White,Yes,Alive,0
 Single,Male,22,Yes,White,Yes,Alive,3
 Married,Male,44,Yes,White,Yes,Alive,2
-Married,Male,43,Yes,White,Yes,Alive,0
 Married,Male,30,Yes,White,Yes,Alive,53
 Single,Female,34,Yes,White,Yes,Alive,26
 Married,Male,84,No,White,No,Died,12
@@ -1521,7 +1459,6 @@ Married,Female,40,Yes,White,Yes,Died,15
 Married,Female,58,No,White,Yes,Died,11
 Married,Female,44,Yes,White,Yes,Died,20
 Married,Male,62,Yes,White,Yes,Died,18
-Married,Female,61,No,White,No,Died,0
 Married,Female,55,Yes,White,Yes,Alive,179
 Married,Female,59,Yes,White,Yes,Died,43
 Single,Male,71,Yes,White,Yes,Died,2
@@ -1538,11 +1475,9 @@ Single,Female,24,Yes,Others,Yes,Alive,191
 Married,Male,70,Yes,White,Yes,Died,13
 Separated/divorced/widowed,Male,55,Yes,White,Yes,Died,18
 Married,Female,50,No,White,No,Died,5
-Married,Male,66,No,White,Yes,Died,0
 Married,Male,67,Yes,White,No,Died,10
 Single,Male,45,Yes,White,Yes,Died,7
 Separated/divorced/widowed,Female,63,Yes,White,No,Alive,101
-Married,Male,62,Yes,White,Yes,Died,0
 Separated/divorced/widowed,Female,59,Yes,White,Yes,Died,12
 Separated/divorced/widowed,Female,38,Yes,White,Yes,Died,23
 Married,Male,67,Yes,White,No,Died,33
@@ -1578,7 +1513,6 @@ Separated/divorced/widowed,Female,42,Yes,Others,No,Alive,162
 Married,Male,45,No,White,No,Alive,92
 Married,Female,61,Yes,White,No,Died,4
 Married,Female,30,Yes,White,Yes,Died,139
-Married,Male,54,Yes,White,No,Alive,0
 Married,Female,44,Yes,Others,Yes,Died,13
 Separated/divorced/widowed,Male,46,No,White,Yes,Died,145
 Married,Male,52,Yes,White,Yes,Died,16
@@ -1602,7 +1536,6 @@ Separated/divorced/widowed,Female,54,Yes,Others,No,Died,4
 Married,Male,42,No,White,Yes,Died,3
 Separated/divorced/widowed,Male,60,No,White,No,Died,6
 Married,Female,45,Yes,White,Yes,Alive,158
-Married,Male,59,Yes,White,No,Died,0
 Married,Female,41,Yes,White,Yes,Alive,157
 Married,Male,55,Yes,White,Yes,Died,6
 Single,Male,18,No,White,Yes,Died,9
@@ -1729,8 +1662,6 @@ Separated/divorced/widowed,Female,51,Yes,White,Yes,Alive,166
 Married,Female,51,Yes,White,No,Died,38
 Married,Male,53,No,White,Yes,Died,1
 Single,Male,46,Yes,White,Yes,Died,13
-Separated/divorced/widowed,Male,59,Yes,White,Yes,Died,0
-Separated/divorced/widowed,Male,63,Yes,White,Yes,Died,0
 Single,Male,26,Yes,White,Yes,Alive,151
 Separated/divorced/widowed,Female,65,Yes,White,Yes,Died,24
 Married,Female,23,Yes,White,Yes,Alive,135
@@ -1759,7 +1690,6 @@ Single,Female,59,Yes,White,Yes,Died,2
 Married,Female,57,Yes,White,Yes,Alive,53
 Married,Male,61,Yes,White,Yes,Alive,53
 Married,Male,41,Yes,White,Yes,Alive,83
-Single,Female,55,Yes,White,Yes,Died,0
 Single,Male,51,Yes,White,Yes,Alive,51
 Single,Male,55,Yes,Black,Yes,Alive,48
 Separated/divorced/widowed,Female,79,No,White,Yes,Died,2
@@ -1768,7 +1698,6 @@ Married,Male,51,Yes,White,Yes,Alive,17
 Married,Male,75,No,White,Yes,Died,23
 Separated/divorced/widowed,Female,71,Yes,White,Yes,Died,6
 Married,Female,40,Yes,White,Yes,Alive,26
-Married,Female,47,Yes,White,Yes,Died,0
 Single,Male,22,No,White,Yes,Alive,25
 Single,Female,34,Yes,White,Yes,Alive,21
 Married,Male,44,Yes,White,No,Alive,21
@@ -1811,7 +1740,6 @@ Separated/divorced/widowed,Male,38,Yes,White,Yes,Alive,167
 Separated/divorced/widowed,Male,83,No,White,No,Died,9
 Separated/divorced/widowed,Male,51,Yes,Black,Yes,Died,24
 Married,Female,58,Yes,White,Yes,Died,36
-Separated/divorced/widowed,Female,79,Yes,White,Yes,Died,0
 Married,Male,33,Yes,White,Yes,Died,13
 Married,Male,53,Yes,White,Yes,Died,2
 Married,Female,48,Yes,Black,Yes,Died,119
@@ -1879,13 +1807,11 @@ Married,Male,32,Yes,White,Yes,Alive,62
 Married,Male,75,Yes,White,Yes,Died,26
 Married,Male,38,Yes,White,Yes,Alive,70
 Married,Male,34,Yes,White,Yes,Alive,102
-Separated/divorced/widowed,Male,73,Yes,White,Yes,Died,0
 Married,Male,62,Yes,White,Yes,Alive,47
 Married,Male,77,Yes,White,No,Died,6
 Married,Female,56,Yes,White,Yes,Died,41
 Separated/divorced/widowed,Male,41,Yes,White,Yes,Died,13
 Single,Male,16,Yes,White,Yes,Died,24
-Married,Female,60,Yes,White,Yes,Died,0
 Married,Male,56,Yes,White,Yes,Died,14
 Married,Male,50,Yes,White,Yes,Alive,36
 Married,Female,51,Yes,White,Yes,Alive,32
